@@ -1,5 +1,5 @@
 # DroneDeBaixoCusto
-Esse repositório tem a finalidade de disponibilizar todo o código de programação que será desenvolvido no projeto Drone de Baixo Custo com Arduino 
+Esse repositório tem a finalidade de disponibilizar todo o código de programação que será desenvolvido no projeto Drone de Baixo Custo com Arduino e outros arquivos.
 
 ---
 
